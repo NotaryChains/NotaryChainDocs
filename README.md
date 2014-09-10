@@ -1,5 +1,7 @@
-Factom
+Factom 
 =============
+
+**(NotaryChains is now maintained under the FactomProject)**
 
 Overview
 --------
